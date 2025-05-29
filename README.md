@@ -18,21 +18,23 @@ Cabeçalho (Header):
 
 #### Problemas:
 
-Seção detalhando os principais problemas gerados pelo desmatamento:
-Aumento das enchentes.
-Calor excessivo e ilhas de calor.
-Redução da qualidade de vida.
+Perda de habitats naturais de animais e plantas
+Aumento da vulnerabilidade do solo à erosão e desertificação
+Redução da biodiversidade, com extinção de espécies
+Desequilíbrio nos ecossistemas e no ciclo da água
+Contribuição para as mudanças climáticas devido à liberação de gases de efeito estufa
 
 #### Consequências:
 
-Lista das consequências diretas do desmatamento, como:
-* Aumento das enchentes e erosão do solo.
-* Mudanças climáticas e perda da biodiversidade.
-* Impacto na saúde pública e economia local.
+Aumento das emissões de gases de efeito estufa, contribuindo para as mudanças climáticas
+Erosão do solo, levando à perda de fertilidade e aumento de deslizamentos
+Extinção de espécies animais e vegetais
+Aumento de eventos climáticos extremos, como enchentes e secas
+Desequilíbrio no ciclo da água e na disponibilidade de recursos hídricos
 
 #### Conclusão:
 
-Reflexão final sobre a necessidade de ações para combater o desmatamento, incluindo preservação ambiental, reflorestamento e práticas sustentáveis.
+O desmatamento é um problema ambiental grave que exige ações de conscientização, legislação e práticas sustentáveis para preservar as florestas, garantir a biodiversidade e proteger o equilíbrio do planeta para as futuras gerações.
 
 #### Rodapé (Footer):
 
